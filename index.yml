@@ -7,5 +7,12 @@ contacts:
   - displayName: Jacqueline Russell
     pictureUrl: https://avatars.githubusercontent.com/u/22108954?v=4
     homePageUrl: https://github.com/Jaqster
+files:
+  - path: course1:unit1:lesson1:lessonpart1/main.py
+    content: "# Please write your code here\r
+
+      \r
+
+      print(1+2)\r\n"
 units:
   - unit1/index.yml
