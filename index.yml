@@ -13,6 +13,7 @@ files:
 
       \r
 
-      print(1+2)\r\n"
+      print(\"hello world\")"
 units:
   - unit1/index.yml
+  - unit2/index.yml
