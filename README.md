@@ -1,1 +1,0 @@
-# Cool-Course-number-two

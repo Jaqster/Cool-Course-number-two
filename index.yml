@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: course1
 title: Cool Course number two
 level: beginner
@@ -8,21 +8,4 @@ contacts:
     pictureUrl: https://avatars.githubusercontent.com/u/22108954?v=4
     homePageUrl: https://github.com/Jaqster
 units:
-  - id: unit1
-    title: Introduction
-    objectives: Learn about the course and its objectives.
-    lessons:
-      - id: lesson1
-        title: About this course
-        objectives: Understand the course structure and objectives.
-        lessonParts:
-          - id: lessonpart1
-            title: Welcome to Cool Course number two
-            duration: 5
-            content: |-
-              **Welcome to the course authoring!**
-              You can use Markdown to format your content.
-            showContent: true
-            showEditor: false
-            showTerminal: false
-            showExplorer: false
+  - unit1/index.yml
